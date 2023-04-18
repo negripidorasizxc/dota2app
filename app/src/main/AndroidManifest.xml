@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".DagonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MaelActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShivaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CrystalysActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SkadiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SatanicActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TangoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SilverActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DesoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VgActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DaedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DivineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AghActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HexActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RadianceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MantaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BlinkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PtActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BkbActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Items3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Items2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Step4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Step3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Step2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Step1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RolesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DictActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WardsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FarmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutmeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SprActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ench2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Puck2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PuckActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Zeus2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ZeusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Bane2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BaneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Chen2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ChenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Terrorblade2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".TerrorbladeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Jugger2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".JuggerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Am2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lancer2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".LancerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Dragon2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DragonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Timber2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".TimberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Cent2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".CentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pudge2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PudgeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Mars2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MarsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Alch2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AlchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Heroes3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Heroes2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".HeroesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GuideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Muerta2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Naga2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tinker2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BeastActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Morph2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Lycan2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Rubick2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Trash2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Slark2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MuertaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NagaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TinkerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MorphActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RubickActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BeastActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LycanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SlarkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MetaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
